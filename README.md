@@ -68,3 +68,7 @@ The following additional dependencies are also included indirectly:
 ## Author
 
 - [@aegeangull](https://github.com/aegeangull)
+
+## License
+
+MIT License
